@@ -5,3 +5,7 @@ h1 {
         body {
             background-image: url("mybackground.jpg");
         }
+#banner container {
+            width: 600px;
+            height: 200px;
+}
