@@ -5,8 +5,14 @@ h1 {
         body {
             background-image: url("mybackground.jpg");
         }
-#banner {
+.banner {
             width: 600px;
+}
+.banner img {
+            width: 100%;
+}
+.banner p {
+            text-align: center;
 }
  h1 {
             color: rgb(204, 204, 255);
