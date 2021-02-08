@@ -22,18 +22,21 @@ h1 {
         }
 #giuliana {
             float: left;
-            height: 30%;
+            width: 40%;
             margin: 6px;
 }
 #nature {
-            float: center;
-            width: 30%;
+            float: right;
+            width: 40%;
+            margin: 6px;
 }
 #photo {
             float: left;
-            wodth: 30%;
+            wodth: 40%;
+            margin: 6px;
 }
 #kayak {
-            float: center;
-            width: 30%;
+            float: right;
+            width: 40%;
+            margin: 6px;
 }
