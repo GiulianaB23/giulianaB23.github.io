@@ -9,5 +9,14 @@
         body {
             background-color: rgb(243, 186, 181);
         }
+.banner {
+            width: 600px;
+}
+.banner img {
+            width: 100%;
+}
+.banner p {
+            text-align: center;
+}
             
         
